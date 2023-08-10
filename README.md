@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/Abrham007/social-proof-section-main.git)
-- Live Site URL: [live site URL](https://abrham007.github.io/social-proof-section-main/)
+- Solution URL: [solution URL](https://github.com/Abrham007/social-proof-section-master.git)
+- Live Site URL: [live site URL](https://abrham007.github.io/social-proof-section-master/)
 
 ## My process
 
