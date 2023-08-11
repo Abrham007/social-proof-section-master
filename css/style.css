@@ -68,8 +68,9 @@ body {
 .sec-2 .div-2 {
   align-self: center;
 }
-.sec-2 p {
+.sec-2 h2 {
   display: inline;
+  font-size: 1rem;
   margin-left: 50px;
 }
 .sec-3 {
@@ -79,8 +80,7 @@ body {
 }
 .sec-3 article {
   flex: 1;
-  padding: 35px;
-  padding-top: 45px;
+  padding: 45px 30px 0px;
   background-color: hsl(300, 43%, 22%);
   border-radius: 10px;
   color: hsl(0, 0%, 100%);
@@ -102,12 +102,12 @@ body {
   float: left;
   margin: 0px 25px 25px 0;
 }
-.sec-3 strong {
-  font-style: normal;
+.sec-3 h2 {
+  font-size: 1rem;
 }
 .sec-3 p {
   font-style: normal;
-  margin-top: 10px;
+  margin-top: 5px;
   color: hsl(333, 80%, 67%);
 }
 .sec-3 q {
